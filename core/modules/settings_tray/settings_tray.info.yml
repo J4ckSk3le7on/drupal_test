@@ -1,0 +1,14 @@
+name: 'Settings Tray'
+type: module
+description: 'Allows users to directly edit the configuration of blocks on the current page.'
+package: Core
+# version: VERSION
+dependencies:
+  - drupal:block
+  - drupal:toolbar
+  - drupal:contextual
+
+# Information added by Drupal.org packaging script on 2021-10-06
+version: '9.2.7'
+project: 'drupal'
+datestamp: 1633544335
